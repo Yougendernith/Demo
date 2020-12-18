@@ -1,0 +1,6 @@
+{
+    "rest-client.fontSize": 13,
+    "editor.fontFamily": " 'Courier'",
+    "editor.wrappingIndent": "indent",
+    "prettier.useTabs": true
+}
